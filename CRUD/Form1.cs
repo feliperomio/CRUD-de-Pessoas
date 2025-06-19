@@ -9,7 +9,7 @@ namespace CRUD
             InitializeComponent();
         }
 
-        string strconn = "Server=127.0.0.1;Port=3306;uid=root;Pwd=root;Database=teste;";
+        string strconn = "Server=localhost;Port=3306;uid=root;Pwd=senha;Database=CRUD;";
 
 
 
