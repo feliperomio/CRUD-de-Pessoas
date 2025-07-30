@@ -6,7 +6,7 @@ Este projeto consiste em um sistema CRUD de Pessoas completo desenvolvido com **
 
 ## Objetivo
 
-Criar uma aplicação desktop funcional que permita:
+Crie uma aplicação desktop funcional que permita:
 - Gerenciar registros de forma prática via interface gráfica
 - Utilizar banco de dados real (MySQL) com conexão segura
 - Servir como base de estudo para projetos maiores
